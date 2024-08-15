@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Luiz
+- 🤓 Hi, I’m Luiz. I'm 19 years old.
+- 😮 I am a student
 - 👀 I’m interested in knowledge HAHA 
 - 🌱 I’m currently learning Python and English LOL
 - 📫 How to reach me? My discord is "lightkk_"
